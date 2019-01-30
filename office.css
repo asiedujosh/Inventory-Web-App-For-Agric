@@ -1,0 +1,58 @@
+*{
+	font-size: 1.1em;
+
+}
+#all{
+	border: 1px solid black;
+	max-width: 93%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 1em;
+	padding: 1em;
+	padding-top: 2em;
+	padding-bottom: 1.5em;
+}
+#address{
+	padding-bottom: 1em;
+}
+#button {
+	width: 1000px; 
+	float: right;
+}
+#button a{
+	width: 110px;
+	padding: 5px 8px 5px 8px;
+	text-align: center;
+	float: right;
+	background-color: #02A6D8;
+	color: #fff;
+	text-decoration: none;
+	margin: 10px;
+	margin-right: 1em;
+}
+#button1 {
+	width: 1000px; 
+	float: left;
+}
+#button1 a{
+	width: 110px;
+	padding: 5px 8px 5px 8px;
+	text-align: center;
+	float: left;
+	background-color: #02A6D8;
+	color: #fff;
+	text-decoration: none;
+	margin: 10px;
+	margin-left: 1em;
+	margin-top: -2em;
+}
+#logo{
+	margin-left: 1em;
+	padding-bottom: 0;
+}
+h2{
+	text-align: center;
+}
+footer{
+	padding-top: 2em;
+}
